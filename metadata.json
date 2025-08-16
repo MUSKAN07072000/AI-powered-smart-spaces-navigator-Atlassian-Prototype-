@@ -1,0 +1,5 @@
+{
+  "name": "Atlassian AI-Powered Smart Spaces Navigator",
+  "description": "A personalized, AI-driven workspace explorer for Jira and Confluence. It helps users seamlessly adapt to the 'Projects to Spaces' transition with features like a smart search, navigation assistant, and governance alerts.",
+  "requestFramePermissions": []
+}
